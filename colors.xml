@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--basic-->
     <color name="black">    #FF000000</color>
     <color name="gray">     #FF808080</color>
     <color name="white">    #FFFFFFFF</color>
@@ -14,6 +15,7 @@
     <color name="violet">   #FF8000FF</color>
     <color name="magenta">  #FFFF00FF</color>
 
+    <!--other-->
     <color name="brown">#FF964B00</color>
     <color name="purple">#FF800080</color>
 </resources>
