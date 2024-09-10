@@ -13,5 +13,7 @@
     <color name="blue">     #FF0000FF</color>
     <color name="violet">   #FF8000FF</color>
     <color name="magenta">  #FFFF00FF</color>
-    <color name="purple">   #FF800080</color>
+
+    <color name="brown">#FF964B00</color>
+    <color name="purple">#FF800080</color>
 </resources>
