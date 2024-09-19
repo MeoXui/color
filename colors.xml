@@ -18,4 +18,8 @@
     <!--other-->
     <color name="brown">#FF964B00</color>
     <color name="purple">#FF800080</color>
+
+    <!--metal-->
+    <color name="gold">#FFFFD700</color>
+    <color name="silver">#FFC0C0C0</color>
 </resources>
